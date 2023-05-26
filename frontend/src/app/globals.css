@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.bg-login {
+  background: red;
+  background-image: url("https://lit.ethz.ch/news-und-veranstaltungen/events/aesthetic-and-scientific-epistemologies-of-the-occult-in-the-xix/_jcr_content/par/fullwidthimage/image.imageformat.930.87903621.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
